@@ -1,6 +1,9 @@
 {
     "1.0.0": {
         "description": "- Traduction Française du Menu de DR par Uniti ^^.",
-        "files": []
+	    "name": "Version 1.0.0",
+        "files": [],
+
+        "datas": [0]
     }
 }
